@@ -5,14 +5,27 @@ Exercícios Práticos - While
 */
 
 // 1. Use um while para imprimir números de 1 a 10.
-
+let i = 0;
+while(i <= 10){
+  console.log(i);
+  i++;
+}
 
 // 2. Use um while para imprimir números pares até 20.
-
+while(i <= 20){
+  i++
+  if(i % 2 == 0){
+    console.log(i);
+  }
+}
 
 // 3. Some números de 1 a 100 usando while.
+let soma = 0;
+while(i <= 100){
+  soma += i
+}
 
-
+console.log(soma);
 // 4. Crie um while que conte de 10 até 1.
 
 
