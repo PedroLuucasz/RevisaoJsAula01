@@ -3,7 +3,6 @@
 Exercícios Práticos - Do...While
 ===========================================================
 */
-
 // 1. Use do...while para imprimir números de 1 a 5.
 let i = 1;
 do {
